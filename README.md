@@ -28,15 +28,6 @@ This project collects healthcare-tech company leads in the USA, detects whether 
 - Contact Email (domain-based)  
 - LinkedIn (generated company URL)
 
-## Tech Stack
-
-- Python
-- `requests`
-- `beautifulsoup4`
-- `pandas`
-- `google-api-python-client`
-- `google-auth`
-- `google-auth-oauthlib`
 
 ## Project Files
 
