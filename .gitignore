@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+# Local credentials and tokens
+oauth_client.json
+service_account.json
+token.json
+
+# Environment files
+.env
