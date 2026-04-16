@@ -72,6 +72,7 @@ Then script prints:
 ```bash
 python healthcare_companies_to_sheets.py --auth-mode oauth --credentials "oauth_client.json" --count 20 --sheet-title "USA Healthcare Hiring Leads"
 ```
+python .\healthcare_companies_to_sheets.py --credentials ".\oauth_client.json" --auth-mode oauth --count 20 --sheet-title "USA Healthcare Companies"
 
 ## Notes and Limitations
 
